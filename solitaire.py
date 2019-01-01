@@ -23,8 +23,8 @@ sys.setrecursionlimit(10000)
 '''
 成语数据库
 来自：https://github.com/pwxcoo/chinese-xinhua
-''
-dict = []a
+'''
+dict = []
 
 # 输出
 buffer = []
